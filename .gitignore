@@ -1,0 +1,57 @@
+/.quarto/
+**/*.quarto_ipynb
+.Rproj.user
+# ==============================================================================
+# DataScouteR Blog — .gitignore
+# Hides all analytical work. Only the rendered blog (docs/) goes public.
+# ==============================================================================
+
+
+# ── Raw season data folders ────────────────────────────────────────────────────
+22_23/
+23_24/
+24_25/
+25_26/
+
+
+# ── R analysis scripts ─────────────────────────────────────────────────────────
+00_shared_config.R
+01_distribution_analysis.R
+02_transfer_prediction.R
+03_backtest.R
+04_recruitment_query.R
+load_data.R
+qa.R
+Analysis/
+
+
+# ── Calibration tables (backtest output) ──────────────────────────────────────
+calibration_table_*.csv
+
+
+# ── Documentation (internal) ──────────────────────────────────────────────────
+DOCUMENTATION.pdf
+AnalyzingNumericDataDistribution.pdf
+
+
+# ── R project & environment ────────────────────────────────────────────────────
+*.Rproj
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+renv/
+renv.lock
+
+
+# ── Quarto build artefacts (not needed in repo — docs/ is what matters) ───────
+_site/
+_freeze/
+.quarto/
+
+
+# ── OS & editor noise ─────────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+*.swp
+*.swo

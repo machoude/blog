@@ -1,0 +1,46 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "DataScouteR Blog"
+  favicon: ""
+  navbar:
+    background: "#0B1120"
+    foreground: "#F0F4FF"
+    left:
+      - href: index.qmd
+        text: Home
+      - text: "Leagues"
+        menu:
+          - href: gre1.qmd
+            text: "⬤  Greek Super League"
+    right:
+      - text: "About"
+        href: about.qmd
+  page-footer:
+    background: "#111827"
+    border: true
+    left: |
+      <span style="font-family:'JetBrains Mono',monospace;font-size:0.65rem;color:#8B8FA8;">
+        DataScouteR · Built in R · 4 seasons · 25+ leagues · 6 positions
+      </span>
+    right: |
+      <span style="font-family:'JetBrains Mono',monospace;font-size:0.65rem;color:#8B8FA8;">
+        Greek Super League · Transfer Analytics
+      </span>
+
+format:
+  html:
+    theme: darkly
+    css: styles.css
+    toc: true
+    toc-depth: 2
+    toc-title: "On this page"
+    smooth-scroll: true
+    link-external-newwindow: true
+    html-math-method: katex
+    include-in-header:
+      text: |
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;400;500;600;700&family=Inter:wght@300;400;500&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">

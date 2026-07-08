@@ -1,0 +1,29 @@
+---
+title: "Greek Super League"
+subtitle: "GRE1 · Transfer Cards · Season 25/26"
+listing:
+  contents: posts/gre1
+  sort: "date desc"
+  type: grid
+  categories: true
+  sort-ui: false
+  filter-ui: true
+  fields: [title,categories]
+  grid-columns: 2
+---
+
+```{=html}
+<div style="margin:1.5rem 0 2.5rem;">
+  <div style="font-family:'JetBrains Mono',monospace;font-size:0.7rem;color:#1DB954;letter-spacing:0.1em;text-transform:uppercase;margin-bottom:0.8rem;display:flex;align-items:center;gap:0.6rem;">
+    <span style="display:inline-block;width:20px;height:1px;background:#1DB954;"></span>
+    GRE1 · Active Season 25/26
+  </div>
+  <p style="font-size:0.9rem;line-height:1.7;color:rgba(240,244,255,0.6);max-width:600px;">
+    Analytical breakdowns of transfers involving Greek Super League clubs.
+    Each card shows the player's difficulty-adjusted percentile ranking,
+    projection tier, and per-metric strengths and risks.
+  </p>
+</div>
+```
+
+---

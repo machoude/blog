@@ -1,0 +1,129 @@
+---
+title: "Pablo Maffeo"
+description: "Cross-League · Wing Back · ESP1 → GRE1"
+date: "2026-07-08"
+categories: [Wing Back, Reliable-Starter, Cross-League]
+---
+
+```{=html}
+<div class="scout-card-container">
+
+  <h3>📊 Transfer Assessment <code>[CROSS-LEAGUE]</code></h3>
+
+  <table>
+    <thead><tr><th>Attribute</th><th>Detail</th></tr></thead>
+    <tbody>
+      <tr><td><strong>Player</strong></td><td>PABLO MAFFEO</td></tr>
+      <tr><td><strong>Position</strong></td><td>Wing Back</td></tr>
+      <tr><td><strong>Route</strong></td>
+        <td><span style="font-family:'JetBrains Mono',monospace;font-size:0.78rem;">ESP1 <span style="color:#4A9EFF;margin:0 0.4rem;">→</span> GRE1</span></td>
+      </tr>
+      <tr><td><strong>Season</strong></td><td><em>25/26</em></td></tr>
+    </tbody>
+  </table>
+
+  <div style="padding:0.8rem 0 0.4rem;">
+    <div style="font-family:'JetBrains Mono',monospace;font-size:0.62rem;color:#8B8FA8;text-transform:uppercase;letter-spacing:0.08em;padding:0 1.4rem 0.6rem;">
+      Per-Metric Percentile (GRE1)
+    </div>
+    <div class="metric-bar-row">
+      <span class="metric-bar-label">Dribbling</span>
+      <div class="metric-bar-track"><div class="metric-bar-fill strength" style="width:96%;"></div></div>
+      <span class="metric-bar-pct strength">95.5%</span>
+    </div>
+    <div class="metric-bar-row">
+      <span class="metric-bar-label">Crossing</span>
+      <div class="metric-bar-track"><div class="metric-bar-fill strength" style="width:90%;"></div></div>
+      <span class="metric-bar-pct strength">89.7%</span>
+    </div>
+    <div class="metric-bar-row">
+      <span class="metric-bar-label">Tackling</span>
+      <div class="metric-bar-track"><div class="metric-bar-fill strength" style="width:88%;"></div></div>
+      <span class="metric-bar-pct strength">88.4%</span>
+    </div>
+    <div class="metric-bar-row">
+      <span class="metric-bar-label">Blocking</span>
+      <div class="metric-bar-track"><div class="metric-bar-fill strength" style="width:87%;"></div></div>
+      <span class="metric-bar-pct strength">87.1%</span>
+    </div>
+    <div class="metric-bar-row">
+      <span class="metric-bar-label">Heading</span>
+      <div class="metric-bar-track"><div class="metric-bar-fill strength" style="width:78%;"></div></div>
+      <span class="metric-bar-pct strength">78.1%</span>
+    </div>
+    <div class="metric-bar-row">
+      <span class="metric-bar-label">Creativity</span>
+      <div class="metric-bar-track"><div class="metric-bar-fill strength" style="width:74%;"></div></div>
+      <span class="metric-bar-pct strength">74.2%</span>
+    </div>
+    <div class="metric-bar-row">
+      <span class="metric-bar-label">Pressing</span>
+      <div class="metric-bar-track"><div class="metric-bar-fill strength" style="width:66%;"></div></div>
+      <span class="metric-bar-pct strength">66.5%</span>
+    </div>
+    <div class="metric-bar-row">
+      <span class="metric-bar-label">Scoring</span>
+      <div class="metric-bar-track"><div class="metric-bar-fill strength" style="width:66%;"></div></div>
+      <span class="metric-bar-pct strength">66.5%</span>
+    </div>
+    <div class="metric-bar-row">
+      <span class="metric-bar-label">Assisting</span>
+      <div class="metric-bar-track"><div class="metric-bar-fill neutral" style="width:49%;"></div></div>
+      <span class="metric-bar-pct neutral">49.0%</span>
+    </div>
+    <div class="metric-bar-row">
+      <span class="metric-bar-label">Progression</span>
+      <div class="metric-bar-track"><div class="metric-bar-fill neutral" style="width:48%;"></div></div>
+      <span class="metric-bar-pct neutral">48.4%</span>
+    </div>
+    <div class="metric-bar-row">
+      <span class="metric-bar-label">Passing</span>
+      <div class="metric-bar-track"><div class="metric-bar-fill risk" style="width:39%;"></div></div>
+      <span class="metric-bar-pct risk">38.7%</span>
+    </div>
+    <div class="metric-bar-row">
+      <span class="metric-bar-label">ShotAcc</span>
+      <div class="metric-bar-track"><div class="metric-bar-fill risk" style="width:23%;"></div></div>
+      <span class="metric-bar-pct risk">22.6%</span>
+    </div>
+  </div>
+
+  <div class="profile-strengths">
+    <strong>✦ Strengths ≥ 60th pct</strong>
+    Dribbling (96%) · Crossing (90%) · Tackling (88%) · Blocking (87%) · Heading (78%) · Creativity (74%) · Pressing (66%) · Scoring (66%)
+  </div>
+  <div class="profile-neutral">
+    <strong>◈ Neutral 40–59th pct</strong>
+    Assisting (49%) · Progression (48%)
+  </div>
+  <div class="profile-risks">
+    <strong>▼ Risks &lt; 40th pct</strong>
+    Passing (39%) · ShotAcc (23%)
+  </div>
+
+  <div class="verdict-block">
+    <div class="verdict-label">Overall Projection</div>
+    <div class="verdict-tier">Reliable Starter</div>
+    <div class="verdict-pct">avg pct: 67.1% · P(success) 75% · Cross-League · ESP1 → GRE1</div>
+  </div>
+
+  <div class="card-footnote">
+    <span class="card-footnote-marker">*</span>
+    <span class="card-footnote-text">
+      <strong>Comparison group:</strong> Wing Backs in GRE1 only &mdash; not other positions or leagues. &middot;
+      <strong>Data window:</strong> Player scores are from their most recent season only, not a career average. &middot;
+      <strong>Outside scope:</strong> Injury history, tactical system fit, and contract terms are not captured by this model.
+    </span>
+  </div>
+
+</div>
+```
+
+## Plain English Verdict
+
+*Copy the plain English verdict from the R console output (printed after "BOTTOM LINE:") and paste it here.*
+
+---
+
+*Transfer type: Cross-League · Position: Wing Back · Model trained on seasons 22-23, 23-24, 24-25 · Data: Opta-weighted per-90*
+

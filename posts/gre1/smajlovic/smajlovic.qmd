@@ -1,0 +1,114 @@
+---
+title: "Zinedin Smajlović"
+description: "Cross-League · Centre Back · NOR1 → GRE1"
+date: "2026-07-08"
+categories: [Centre Back, Top-5-Caliber-Signee, Cross-League]
+---
+
+```{=html}
+<div class="scout-card-container">
+
+  <h3>📊 Transfer Assessment <code>[CROSS-LEAGUE]</code></h3>
+
+  <table>
+    <thead><tr><th>Attribute</th><th>Detail</th></tr></thead>
+    <tbody>
+      <tr><td><strong>Player</strong></td><td>ZINEDIN SMAJLOVIĆ</td></tr>
+      <tr><td><strong>Position</strong></td><td>Centre Back</td></tr>
+      <tr><td><strong>Route</strong></td>
+        <td><span style="font-family:'JetBrains Mono',monospace;font-size:0.78rem;">NOR1 <span style="color:#4A9EFF;margin:0 0.4rem;">→</span> GRE1</span></td>
+      </tr>
+      <tr><td><strong>Season</strong></td><td><em>25/26</em></td></tr>
+    </tbody>
+  </table>
+
+  <div style="padding:0.8rem 0 0.4rem;">
+    <div style="font-family:'JetBrains Mono',monospace;font-size:0.62rem;color:#8B8FA8;text-transform:uppercase;letter-spacing:0.08em;padding:0 1.4rem 0.6rem;">
+      Per-Metric Percentile (GRE1)
+    </div>
+    <div class="metric-bar-row">
+      <span class="metric-bar-label">Passing</span>
+      <div class="metric-bar-track"><div class="metric-bar-fill strength" style="width:98%;"></div></div>
+      <span class="metric-bar-pct strength">98.0%</span>
+    </div>
+    <div class="metric-bar-row">
+      <span class="metric-bar-label">Assisting</span>
+      <div class="metric-bar-track"><div class="metric-bar-fill strength" style="width:96%;"></div></div>
+      <span class="metric-bar-pct strength">96.0%</span>
+    </div>
+    <div class="metric-bar-row">
+      <span class="metric-bar-label">Tackling</span>
+      <div class="metric-bar-track"><div class="metric-bar-fill strength" style="width:94%;"></div></div>
+      <span class="metric-bar-pct strength">94.0%</span>
+    </div>
+    <div class="metric-bar-row">
+      <span class="metric-bar-label">Creativity</span>
+      <div class="metric-bar-track"><div class="metric-bar-fill strength" style="width:93%;"></div></div>
+      <span class="metric-bar-pct strength">93.4%</span>
+    </div>
+    <div class="metric-bar-row">
+      <span class="metric-bar-label">Blocking</span>
+      <div class="metric-bar-track"><div class="metric-bar-fill strength" style="width:89%;"></div></div>
+      <span class="metric-bar-pct strength">89.4%</span>
+    </div>
+    <div class="metric-bar-row">
+      <span class="metric-bar-label">Progression</span>
+      <div class="metric-bar-track"><div class="metric-bar-fill strength" style="width:89%;"></div></div>
+      <span class="metric-bar-pct strength">89.4%</span>
+    </div>
+    <div class="metric-bar-row">
+      <span class="metric-bar-label">Shooting</span>
+      <div class="metric-bar-track"><div class="metric-bar-fill strength" style="width:86%;"></div></div>
+      <span class="metric-bar-pct strength">86.1%</span>
+    </div>
+    <div class="metric-bar-row">
+      <span class="metric-bar-label">Heading</span>
+      <div class="metric-bar-track"><div class="metric-bar-fill strength" style="width:76%;"></div></div>
+      <span class="metric-bar-pct strength">75.5%</span>
+    </div>
+    <div class="metric-bar-row">
+      <span class="metric-bar-label">Crossing</span>
+      <div class="metric-bar-track"><div class="metric-bar-fill neutral" style="width:44%;"></div></div>
+      <span class="metric-bar-pct neutral">44.4%</span>
+    </div>
+  </div>
+
+  <div class="profile-strengths">
+    <strong>✦ Strengths ≥ 60th pct</strong>
+    Passing (98%) · Assisting (96%) · Tackling (94%) · Creativity (93%) · Blocking (89%) · Progression (89%) · Shooting (86%) · Heading (76%)
+  </div>
+  <div class="profile-neutral">
+    <strong>◈ Neutral 40–59th pct</strong>
+    Crossing (44%)
+  </div>
+  <div class="profile-risks">
+    <strong>▼ Risks &lt; 40th pct</strong>
+    —
+  </div>
+
+  <div class="verdict-block">
+    <div class="verdict-label">Overall Projection</div>
+    <div class="verdict-tier">Top 5 Caliber Signee</div>
+    <div class="verdict-pct">avg pct: 85.1% · P(success) 20% · Cross-League · NOR1 → GRE1</div>
+  </div>
+
+  <div class="card-footnote">
+    <span class="card-footnote-marker">*</span>
+    <span class="card-footnote-text">
+      <strong>Comparison group:</strong> Centre Backs in GRE1 only &mdash; not other positions or leagues. &middot;
+      <strong>Data window:</strong> Player scores are from their most recent season only, not a career average. &middot;
+      <strong>Outside scope:</strong> Injury history, tactical system fit, and contract terms are not captured by this model.
+    </span>
+  </div>
+
+</div>
+```
+
+## Plain English Verdict
+
+*Copy the plain English verdict from the R console output (printed after "BOTTOM LINE:") and paste it here.*
+
+---
+
+*Transfer type: Cross-League · Position: Centre Back · Model trained on seasons 22-23, 23-24, 24-25 · Data: Opta-weighted per-90*
+
