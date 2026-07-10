@@ -130,6 +130,6 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this project\n  \nDataScouteR is a football analytics platform that applies statistical modelling and empirical backtesting to evaluate transfer decisions across 25+ European leagues.\n\n\n  Honest caveats\n  \n    The model ranks players statistically. It cannot account for injury history,\n    tactical system fit, psychological adaptation, or contract terms.\n    Empirical probabilities are only reliable when the backtest sample for a given tier exceeds 20 transfers."
+    "text": "About this project\n  \nDataScouteR is a football analytics platform that applies statistical modelling and empirical backtesting to evaluate transfer decisions across 25+ European leagues.\n\n\n  Honest caveats\n  \n    The model ranks players statistically. It cannot account for injury history,\n    tactical system fit, psychological adaptation, or contract terms."
   }
 ]
