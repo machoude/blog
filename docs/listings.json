@@ -2,10 +2,16 @@
   {
     "listing": "/gre1.html",
     "items": [
+      "/posts/gre1/jgomez/jgomez.html",
+      "/posts/gre1/sielis/sielis.html",
+      "/posts/gre1/camara/camara.html",
+      "/posts/gre1/rastoder/rastoder.html",
+      "/posts/gre1/elustondo/elustondo.html",
+      "/posts/gre1/pena/pena.html",
       "/posts/gre1/smajlovic/smajlovic.html",
       "/posts/gre1/maffeo/maffeo.html",
       "/posts/gre1/zubkov/zubkov.html",
-      "/posts/gre1/kairinen/index.html",
+      "/posts/gre1/kairinen/kairinen.html",
       "/posts/gre1/bouchalakis/index.html"
     ]
   }

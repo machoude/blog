@@ -168,7 +168,7 @@ ul.task-list li input[type="checkbox"] {
     Transfer intelligence<br>built on real data.
   </p>
   <p style="font-size:0.95rem;line-height:1.75;color:rgba(240,244,255,0.65);max-width:560px;margin-bottom:2rem;">
-    DataScouteR combines non-parametric statistics and empirical backtesting to evaluate football transfers across 25+ global leagues.
+    DataScouteR combines non-parametric statistics and empirical backtesting to evaluate football transfers across 25+ european leagues.
     Every projection is grounded in historical data — not intuition.
   </p>
   <div style="display:flex;gap:1rem;flex-wrap:wrap;margin-bottom:3rem;">
@@ -202,9 +202,8 @@ ul.task-list li input[type="checkbox"] {
 </div>
 <section id="what-youll-find-here" class="level2">
 <h2 class="anchored" data-anchor-id="what-youll-find-here">What you’ll find here</h2>
-<p><strong>Data-Driven Insights</strong> — analytics on whether a player fits a club’s tactical and statistical profile, based on 4 seasons of per-90 data across 25+ leagues.</p>
-<p><strong>Transfer Grading</strong> — every transfer card shows a player’s percentile ranking in the target league, a projection tier, strengths and risks per metric, and an empirical success probability derived from the backtest.</p>
-<p><strong>Backtested Projections</strong> — the model is validated against real 25/26 outcomes. The probabilities you see are not assumptions — they are frequencies from historical transfers.</p>
+<p><strong>Data-Driven Insights</strong> — analytics on whether a player fits a club’s tactical and statistical profile, based on data across 25+ leagues.</p>
+<p><strong>Transfer Grading</strong> — every transfer card shows a player’s percentile ranking in the target league, a projection tier, strengths and risks per metric.</p>
 <p>Use the navigation bar above to explore transfer cards by league.</p>
 <hr>
 </section>
@@ -287,16 +286,6 @@ ul.task-list li input[type="checkbox"] {
 
   </div>
 </div>
-</section>
-<section id="how-metrics-are-scored" class="level3">
-<h3 class="anchored" data-anchor-id="how-metrics-are-scored">How metrics are scored</h3>
-<p>Each metric starts as a raw count (e.g.&nbsp;long balls per game). It is then:</p>
-<ol type="1">
-<li><strong>Normalised to per-90 minutes</strong> — removing playing time bias</li>
-<li><strong>Scaled globally to 1–20</strong> across all leagues and seasons on a single scale</li>
-<li><strong>Multiplied by an Opta difficulty coefficient</strong> (ENG1 = 1.0, GRE1 = 0.75, etc.) — baking league difficulty directly into the score</li>
-</ol>
-<p>This means a score of 14 in GRE1 and a score of 14 in ENG1 do <strong>not</strong> represent the same output — the Premier League score is unweighted, the Greek Super League score has been deflated to reflect that the same raw output is harder to achieve in a tougher league. Cross-league comparisons are therefore valid without any further adjustment.</p>
 </section>
 <section id="the-three-colour-bands-on-every-card" class="level3">
 <h3 class="anchored" data-anchor-id="the-three-colour-bands-on-every-card">The three colour bands on every card</h3>

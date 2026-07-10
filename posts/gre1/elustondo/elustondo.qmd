@@ -1,0 +1,108 @@
+---
+title: "Aritz Elustondo"
+description: "Cross-League · Centre Back · ESP1 → GRE1"
+date: "2026-07-10"
+categories: [Centre Back, Reliable-Starter, Cross-League]
+---
+
+```{=html}
+<div class="scout-card-container">
+
+  <h3>📊 Transfer Assessment <code>[CROSS-LEAGUE]</code></h3>
+
+  <table>
+    <thead><tr><th>Attribute</th><th>Detail</th></tr></thead>
+    <tbody>
+      <tr><td><strong>Player</strong></td><td>ARITZ ELUSTONDO</td></tr>
+      <tr><td><strong>Position</strong></td><td>Centre Back</td></tr>
+      <tr><td><strong>Route</strong></td>
+        <td><span style="font-family:'JetBrains Mono',monospace;font-size:0.78rem;">ESP1 <span style="color:#4A9EFF;margin:0 0.4rem;">→</span> GRE1</span></td>
+      </tr>
+      <tr><td><strong>Season</strong></td><td><em>25/26</em></td></tr>
+    </tbody>
+  </table>
+
+  <div style="padding:0.8rem 0 0.4rem;">
+    <div style="font-family:'JetBrains Mono',monospace;font-size:0.62rem;color:#8B8FA8;text-transform:uppercase;letter-spacing:0.08em;padding:0 1.4rem 0.6rem;">
+      Per-Metric Percentile (GRE1)
+    </div>
+    <div class="metric-bar-row">
+      <span class="metric-bar-label">Crossing</span>
+      <div class="metric-bar-track"><div class="metric-bar-fill strength" style="width:98%;"></div></div>
+      <span class="metric-bar-pct strength">98.0%</span>
+    </div>
+    <div class="metric-bar-row">
+      <span class="metric-bar-label">Tackling</span>
+      <div class="metric-bar-track"><div class="metric-bar-fill strength" style="width:98%;"></div></div>
+      <span class="metric-bar-pct strength">98.0%</span>
+    </div>
+    <div class="metric-bar-row">
+      <span class="metric-bar-label">Shooting</span>
+      <div class="metric-bar-track"><div class="metric-bar-fill strength" style="width:87%;"></div></div>
+      <span class="metric-bar-pct strength">86.8%</span>
+    </div>
+    <div class="metric-bar-row">
+      <span class="metric-bar-label">Assisting</span>
+      <div class="metric-bar-track"><div class="metric-bar-fill strength" style="width:76%;"></div></div>
+      <span class="metric-bar-pct strength">76.2%</span>
+    </div>
+    <div class="metric-bar-row">
+      <span class="metric-bar-label">Heading</span>
+      <div class="metric-bar-track"><div class="metric-bar-fill strength" style="width:74%;"></div></div>
+      <span class="metric-bar-pct strength">74.2%</span>
+    </div>
+    <div class="metric-bar-row">
+      <span class="metric-bar-label">Progression</span>
+      <div class="metric-bar-track"><div class="metric-bar-fill strength" style="width:74%;"></div></div>
+      <span class="metric-bar-pct strength">73.5%</span>
+    </div>
+    <div class="metric-bar-row">
+      <span class="metric-bar-label">Passing</span>
+      <div class="metric-bar-track"><div class="metric-bar-fill neutral" style="width:56%;"></div></div>
+      <span class="metric-bar-pct neutral">55.6%</span>
+    </div>
+    <div class="metric-bar-row">
+      <span class="metric-bar-label">Blocking</span>
+      <div class="metric-bar-track"><div class="metric-bar-fill neutral" style="width:42%;"></div></div>
+      <span class="metric-bar-pct neutral">42.4%</span>
+    </div>
+    <div class="metric-bar-row">
+      <span class="metric-bar-label">Creativity</span>
+      <div class="metric-bar-track"><div class="metric-bar-fill risk" style="width:18%;"></div></div>
+      <span class="metric-bar-pct risk">18.5%</span>
+    </div>
+  </div>
+
+  <div class="profile-strengths">
+    <strong>✦ Strengths ≥ 60th pct</strong>
+    Crossing (98%) · Tackling (98%) · Shooting (87%) · Assisting (76%) · Heading (74%) · Progression (74%)
+  </div>
+  <div class="profile-neutral">
+    <strong>◈ Neutral 40–59th pct</strong>
+    Passing (56%) · Blocking (42%)
+  </div>
+  <div class="profile-risks">
+    <strong>▼ Risks &lt; 40th pct</strong>
+    Creativity (18%)
+  </div>
+
+  <div class="verdict-block">
+    <div class="verdict-label">Overall Projection</div>
+    <div class="verdict-tier">Reliable Starter</div>
+    <div class="verdict-pct">avg pct: 69.2% · P(success) 62% · Cross-League · ESP1 → GRE1</div>
+  </div>
+
+  <div class="card-footnote">
+    <span class="card-footnote-marker">*</span>
+    <span class="card-footnote-text">
+      <strong>Comparison group:</strong> Centre Backs in GRE1 only &mdash; not other positions or leagues. &middot;
+      <strong>Data window:</strong> Player scores are from their most recent season only, not a career average. &middot;
+      <strong>Outside scope:</strong> Injury history, tactical system fit, and contract terms are not captured by this model.
+    </span>
+  </div>
+
+</div>
+```
+
+
+

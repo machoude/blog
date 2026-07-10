@@ -13,12 +13,12 @@ categories: [Central Midfielder, Reliable-Starter, Within-League]
   <table>
 <thead><tr><th>Attribute</th><th>Detail</th></tr></thead>
 <tbody>
-  <tr><td><strong>Player</strong></td><td>ANDREAS BOUCHALAKIS</td></tr>
-  <tr><td><strong>Position</strong></td><td>Central Midfielder</td></tr>
-  <tr><td><strong>Route</strong></td>
-    <td><span style="font-family:'JetBrains Mono',monospace;font-size:0.78rem;">GRE1 <span style="color:#4A9EFF;margin:0 0.4rem;">→</span> GRE1</span></td>
-  </tr>
-  <tr><td><strong>Season</strong></td><td><em>25/26</em></td></tr>
+<tr><td><strong>Player</strong></td><td>ANDREAS BOUCHALAKIS</td></tr>
+<tr><td><strong>Position</strong></td><td>Central Midfielder</td></tr>
+<tr><td><strong>Route</strong></td>
+  <td><span style="font-family:'JetBrains Mono',monospace;font-size:0.78rem;">GRE1 <span style="color:#4A9EFF;margin:0 0.4rem;">→</span> GRE1</span></td>
+</tr>
+<tr><td><strong>Season</strong></td><td><em>25/26</em></td></tr>
 </tbody>
 </table>
 
@@ -119,10 +119,4 @@ categories: [Central Midfielder, Reliable-Starter, Within-League]
 </div>
 ```
 
-## Plain English Verdict
-
-*Copy the plain English verdict from the R console output (printed after "BOTTOM LINE:") and paste it here.*
-
-------------------------------------------------------------------------
-
-*Transfer type: Within-League · Position: Central Midfielder · Model trained on seasons 22-23, 23-24, 24-25 · Data: Opta-weighted per-90*
+## 

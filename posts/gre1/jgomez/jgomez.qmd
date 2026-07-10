@@ -1,0 +1,122 @@
+---
+title: "Jonathan Gómez"
+description: "Cross-League · Wing Back · ESP2 → GRE1"
+date: "2026-07-10"
+categories: [Wing Back, Reliable-Starter, Cross-League]
+---
+
+```{=html}
+<div class="scout-card-container">
+
+  <h3>📊 Transfer Assessment <code>[CROSS-LEAGUE]</code></h3>
+
+  <table>
+    <thead><tr><th>Attribute</th><th>Detail</th></tr></thead>
+    <tbody>
+      <tr><td><strong>Player</strong></td><td>JONATHAN GÓMEZ</td></tr>
+      <tr><td><strong>Position</strong></td><td>Wing Back</td></tr>
+      <tr><td><strong>Route</strong></td>
+        <td><span style="font-family:'JetBrains Mono',monospace;font-size:0.78rem;">ESP2 <span style="color:#4A9EFF;margin:0 0.4rem;">→</span> GRE1</span></td>
+      </tr>
+      <tr><td><strong>Season</strong></td><td><em>25/26</em></td></tr>
+    </tbody>
+  </table>
+
+  <div style="padding:0.8rem 0 0.4rem;">
+    <div style="font-family:'JetBrains Mono',monospace;font-size:0.62rem;color:#8B8FA8;text-transform:uppercase;letter-spacing:0.08em;padding:0 1.4rem 0.6rem;">
+      Per-Metric Percentile (GRE1)
+    </div>
+    <div class="metric-bar-row">
+      <span class="metric-bar-label">Scoring</span>
+      <div class="metric-bar-track"><div class="metric-bar-fill strength" style="width:83%;"></div></div>
+      <span class="metric-bar-pct strength">82.6%</span>
+    </div>
+    <div class="metric-bar-row">
+      <span class="metric-bar-label">Pressing</span>
+      <div class="metric-bar-track"><div class="metric-bar-fill strength" style="width:74%;"></div></div>
+      <span class="metric-bar-pct strength">74.2%</span>
+    </div>
+    <div class="metric-bar-row">
+      <span class="metric-bar-label">ShotAcc</span>
+      <div class="metric-bar-track"><div class="metric-bar-fill strength" style="width:66%;"></div></div>
+      <span class="metric-bar-pct strength">66.5%</span>
+    </div>
+    <div class="metric-bar-row">
+      <span class="metric-bar-label">Assisting</span>
+      <div class="metric-bar-track"><div class="metric-bar-fill strength" style="width:66%;"></div></div>
+      <span class="metric-bar-pct strength">66.4%</span>
+    </div>
+    <div class="metric-bar-row">
+      <span class="metric-bar-label">Tackling</span>
+      <div class="metric-bar-track"><div class="metric-bar-fill strength" style="width:62%;"></div></div>
+      <span class="metric-bar-pct strength">61.9%</span>
+    </div>
+    <div class="metric-bar-row">
+      <span class="metric-bar-label">Progression</span>
+      <div class="metric-bar-track"><div class="metric-bar-fill neutral" style="width:53%;"></div></div>
+      <span class="metric-bar-pct neutral">52.9%</span>
+    </div>
+    <div class="metric-bar-row">
+      <span class="metric-bar-label">Heading</span>
+      <div class="metric-bar-track"><div class="metric-bar-fill neutral" style="width:52%;"></div></div>
+      <span class="metric-bar-pct neutral">51.6%</span>
+    </div>
+    <div class="metric-bar-row">
+      <span class="metric-bar-label">Blocking</span>
+      <div class="metric-bar-track"><div class="metric-bar-fill neutral" style="width:47%;"></div></div>
+      <span class="metric-bar-pct neutral">47.1%</span>
+    </div>
+    <div class="metric-bar-row">
+      <span class="metric-bar-label">Dribbling</span>
+      <div class="metric-bar-track"><div class="metric-bar-fill neutral" style="width:46%;"></div></div>
+      <span class="metric-bar-pct neutral">45.8%</span>
+    </div>
+    <div class="metric-bar-row">
+      <span class="metric-bar-label">Creativity</span>
+      <div class="metric-bar-track"><div class="metric-bar-fill neutral" style="width:43%;"></div></div>
+      <span class="metric-bar-pct neutral">43.2%</span>
+    </div>
+    <div class="metric-bar-row">
+      <span class="metric-bar-label">Crossing</span>
+      <div class="metric-bar-track"><div class="metric-bar-fill risk" style="width:29%;"></div></div>
+      <span class="metric-bar-pct risk">29.0%</span>
+    </div>
+    <div class="metric-bar-row">
+      <span class="metric-bar-label">Passing</span>
+      <div class="metric-bar-track"><div class="metric-bar-fill risk" style="width:24%;"></div></div>
+      <span class="metric-bar-pct risk">23.9%</span>
+    </div>
+  </div>
+
+  <div class="profile-strengths">
+    <strong>✦ Strengths ≥ 60th pct</strong>
+    Scoring (83%) · Pressing (74%) · ShotAcc (66%) · Assisting (66%) · Tackling (62%)
+  </div>
+  <div class="profile-neutral">
+    <strong>◈ Neutral 40–59th pct</strong>
+    Progression (53%) · Heading (52%) · Blocking (47%) · Dribbling (46%) · Creativity (43%)
+  </div>
+  <div class="profile-risks">
+    <strong>▼ Risks &lt; 40th pct</strong>
+    Crossing (29%) · Passing (24%)
+  </div>
+
+  <div class="verdict-block">
+    <div class="verdict-label">Overall Projection</div>
+    <div class="verdict-tier">Reliable Starter</div>
+    <div class="verdict-pct">avg pct: 53.8% · P(success) 75% · Cross-League · ESP2 → GRE1</div>
+  </div>
+
+  <div class="card-footnote">
+    <span class="card-footnote-marker">*</span>
+    <span class="card-footnote-text">
+      <strong>Comparison group:</strong> Wing Backs in GRE1 only &mdash; not other positions or leagues. &middot;
+      <strong>Data window:</strong> Player scores are from their most recent season only, not a career average. &middot;
+      <strong>Outside scope:</strong> Injury history, tactical system fit, and contract terms are not captured by this model.
+    </span>
+  </div>
+
+</div>
+```
+
+

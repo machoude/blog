@@ -13,7 +13,7 @@ subtitle: "Football Transfer Analytics · Powered by R"
     Transfer intelligence<br/>built on real data.
   </p>
   <p style="font-size:0.95rem;line-height:1.75;color:rgba(240,244,255,0.65);max-width:560px;margin-bottom:2rem;">
-    DataScouteR combines non-parametric statistics and empirical backtesting to evaluate football transfers across 25+ global leagues.
+    DataScouteR combines non-parametric statistics and empirical backtesting to evaluate football transfers across 25+ european leagues.
     Every projection is grounded in historical data — not intuition.
   </p>
   <div style="display:flex;gap:1rem;flex-wrap:wrap;margin-bottom:3rem;">
@@ -49,11 +49,9 @@ subtitle: "Football Transfer Analytics · Powered by R"
 
 ## What you'll find here
 
-**Data-Driven Insights** — analytics on whether a player fits a club's tactical and statistical profile, based on 4 seasons of per-90 data across 25+ leagues.
+**Data-Driven Insights** — analytics on whether a player fits a club's tactical and statistical profile, based on data across 25+ leagues.
 
-**Transfer Grading** — every transfer card shows a player's percentile ranking in the target league, a projection tier, strengths and risks per metric, and an empirical success probability derived from the backtest.
-
-**Backtested Projections** — the model is validated against real 25/26 outcomes. The probabilities you see are not assumptions — they are frequencies from historical transfers.
+**Transfer Grading** — every transfer card shows a player's percentile ranking in the target league, a projection tier, strengths and risks per metric.
 
 Use the navigation bar above to explore transfer cards by league.
 
@@ -145,16 +143,6 @@ The **reference distribution** used for comparison spans all four seasons (22/23
   </div>
 </div>
 ```
-
-### How metrics are scored
-
-Each metric starts as a raw count (e.g. long balls per game). It is then:
-
-1.  **Normalised to per-90 minutes** — removing playing time bias
-2.  **Scaled globally to 1–20** across all leagues and seasons on a single scale
-3.  **Multiplied by an Opta difficulty coefficient** (ENG1 = 1.0, GRE1 = 0.75, etc.) — baking league difficulty directly into the score
-
-This means a score of 14 in GRE1 and a score of 14 in ENG1 do **not** represent the same output — the Premier League score is unweighted, the Greek Super League score has been deflated to reflect that the same raw output is harder to achieve in a tougher league. Cross-league comparisons are therefore valid without any further adjustment.
 
 ### The three colour bands on every card
 

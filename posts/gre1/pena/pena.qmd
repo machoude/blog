@@ -1,0 +1,88 @@
+---
+title: "Iñaki Peña"
+description: "Cross-League · Goalkeeper · ESP1 → GRE1"
+date: "2026-07-10"
+categories: [Goalkeeper, Top-5-Caliber-Signee, Cross-League]
+---
+
+```{=html}
+<div class="scout-card-container">
+
+  <h3>📊 Transfer Assessment <code>[CROSS-LEAGUE]</code></h3>
+
+  <table>
+    <thead><tr><th>Attribute</th><th>Detail</th></tr></thead>
+    <tbody>
+      <tr><td><strong>Player</strong></td><td>IÑAKI PEÑA</td></tr>
+      <tr><td><strong>Position</strong></td><td>Goalkeeper</td></tr>
+      <tr><td><strong>Route</strong></td>
+        <td><span style="font-family:'JetBrains Mono',monospace;font-size:0.78rem;">ESP1 <span style="color:#4A9EFF;margin:0 0.4rem;">→</span> GRE1</span></td>
+      </tr>
+      <tr><td><strong>Season</strong></td><td><em>25/26</em></td></tr>
+    </tbody>
+  </table>
+
+  <div style="padding:0.8rem 0 0.4rem;">
+    <div style="font-family:'JetBrains Mono',monospace;font-size:0.62rem;color:#8B8FA8;text-transform:uppercase;letter-spacing:0.08em;padding:0 1.4rem 0.6rem;">
+      Per-Metric Percentile (GRE1)
+    </div>
+    <div class="metric-bar-row">
+      <span class="metric-bar-label">Passing</span>
+      <div class="metric-bar-track"><div class="metric-bar-fill strength" style="width:99%;"></div></div>
+      <span class="metric-bar-pct strength">98.7%</span>
+    </div>
+    <div class="metric-bar-row">
+      <span class="metric-bar-label">Sweeping</span>
+      <div class="metric-bar-track"><div class="metric-bar-fill strength" style="width:92%;"></div></div>
+      <span class="metric-bar-pct strength">92.3%</span>
+    </div>
+    <div class="metric-bar-row">
+      <span class="metric-bar-label">CrossStopping</span>
+      <div class="metric-bar-track"><div class="metric-bar-fill strength" style="width:91%;"></div></div>
+      <span class="metric-bar-pct strength">91.0%</span>
+    </div>
+    <div class="metric-bar-row">
+      <span class="metric-bar-label">LongBalls</span>
+      <div class="metric-bar-track"><div class="metric-bar-fill strength" style="width:72%;"></div></div>
+      <span class="metric-bar-pct strength">71.8%</span>
+    </div>
+    <div class="metric-bar-row">
+      <span class="metric-bar-label">ShotStopping</span>
+      <div class="metric-bar-track"><div class="metric-bar-fill neutral" style="width:46%;"></div></div>
+      <span class="metric-bar-pct neutral">46.2%</span>
+    </div>
+  </div>
+
+  <div class="profile-strengths">
+    <strong>✦ Strengths ≥ 60th pct</strong>
+    Passing (99%) · Sweeping (92%) · CrossStopping (91%) · LongBalls (72%)
+  </div>
+  <div class="profile-neutral">
+    <strong>◈ Neutral 40–59th pct</strong>
+    ShotStopping (46%)
+  </div>
+  <div class="profile-risks">
+    <strong>▼ Risks &lt; 40th pct</strong>
+    —
+  </div>
+
+  <div class="verdict-block">
+    <div class="verdict-label">Overall Projection</div>
+    <div class="verdict-tier">Top 5 Caliber Signee</div>
+    <div class="verdict-pct">avg pct: 80.0% · P(success) 23% · Cross-League · ESP1 → GRE1</div>
+  </div>
+
+  <div class="card-footnote">
+    <span class="card-footnote-marker">*</span>
+    <span class="card-footnote-text">
+      <strong>Comparison group:</strong> Goalkeepers in GRE1 only &mdash; not other positions or leagues. &middot;
+      <strong>Data window:</strong> Player scores are from their most recent season only, not a career average. &middot;
+      <strong>Outside scope:</strong> Injury history, tactical system fit, and contract terms are not captured by this model.
+    </span>
+  </div>
+
+</div>
+```
+
+
+
