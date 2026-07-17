@@ -16,7 +16,7 @@ categories: [Central Midfielder, Reliable-Starter, Within-League]
 <tr><td><strong>Player</strong></td><td>ANDREAS BOUCHALAKIS</td></tr>
 <tr><td><strong>Position</strong></td><td>Central Midfielder</td></tr>
 <tr><td><strong>Route</strong></td>
-  <td><span style="font-family:'JetBrains Mono',monospace;font-size:0.78rem;">GRE1 <span style="color:#4A9EFF;margin:0 0.4rem;">→</span> GRE1</span></td>
+<td><span style="font-family:'JetBrains Mono',monospace;font-size:0.78rem;">GRE1 <span style="color:#4A9EFF;margin:0 0.4rem;">→</span> GRE1</span></td>
 </tr>
 <tr><td><strong>Season</strong></td><td><em>25/26</em></td></tr>
 </tbody>

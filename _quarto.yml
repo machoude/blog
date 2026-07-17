@@ -3,44 +3,43 @@ project:
   output-dir: docs
 
 website:
-  title: "DataScouteR Blog"
+  title: "DataScouteR"
   favicon: ""
   navbar:
-    background: "#0B1120"
-    foreground: "#F0F4FF"
+    background: "#F7F5F0"
+    foreground: "#1A1A1A"
     left:
       - href: index.qmd
         text: Home
       - text: "Leagues"
         menu:
           - href: gre1.qmd
-            text: "⬤  Greek Super League"
+            text: "Greek Super League"
     right:
       - text: "About"
         href: about.qmd
   page-footer:
-    background: "#111827"
-    border: true
+    background: "#1A1A1A"
+    border: false
     left: |
-      <span style="font-family:'JetBrains Mono',monospace;font-size:0.65rem;color:#8B8FA8;">
-        DataScouteR · Built in R · 4 seasons · 25+ leagues · 6 positions
+      <span style="font-family:'JetBrains Mono',monospace;font-size:0.65rem;color:#6B6B6B;letter-spacing:0.06em;">
+        DataScouteR · Built in R · 25+ leagues
       </span>
     right: |
-      <span style="font-family:'JetBrains Mono',monospace;font-size:0.65rem;color:#8B8FA8;">
+      <span style="font-family:'JetBrains Mono',monospace;font-size:0.65rem;color:#6B6B6B;letter-spacing:0.06em;">
         Greek Super League · Transfer Analytics
       </span>
 
 format:
   html:
-    theme: darkly
+    theme: flatly
     css: styles.css
     toc: true
     toc-depth: 2
     toc-title: "On this page"
     smooth-scroll: true
     link-external-newwindow: true
-    html-math-method: katex
     include-in-header:
       text: |
         <link rel="preconnect" href="https://fonts.googleapis.com">
-        <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;400;500;600;700&family=Inter:wght@300;400;500&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,700;0,800;1,700&family=DM+Sans:wght@300;400;500;600&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
