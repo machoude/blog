@@ -89,7 +89,7 @@ categories: [Centre Back, Top-5-Caliber-Signee, Cross-League]
   <div class="verdict-block">
     <div class="verdict-label">Overall Projection</div>
     <div class="verdict-tier">Top 5 Caliber Signee</div>
-    <div class="verdict-pct">avg pct: 85.1% · P(success) 20% · Cross-League · NOR1 → GRE1</div>
+    <div class="verdict-pct">avg pct: 85.1% · Cross-League · NOR1 → GRE1</div>
   </div>
 
   <div class="card-footnote">

@@ -104,7 +104,7 @@ categories: [Central Midfielder, Reliable-Starter, Cross-League]
   <div class="verdict-block">
     <div class="verdict-label">Overall Projection</div>
     <div class="verdict-tier">Reliable Starter</div>
-    <div class="verdict-pct">avg pct: 53.3% · P(success) 75% · Cross-League · BEL1 → GRE1</div>
+    <div class="verdict-pct">avg pct: 53.3% · Cross-League · BEL1 → GRE1</div>
   </div>
 
   <div class="card-footnote">

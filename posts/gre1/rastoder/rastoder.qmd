@@ -99,7 +99,7 @@ categories: [Forward, Reliable-Starter, Cross-League]
   <div class="verdict-block">
     <div class="verdict-label">Overall Projection</div>
     <div class="verdict-tier">Reliable Starter</div>
-    <div class="verdict-pct">avg pct: 71.6% · P(success) 70% · Cross-League · SWI1 → GRE1</div>
+    <div class="verdict-pct">avg pct: 71.6% · Cross-League · SWI1 → GRE1</div>
   </div>
 
   <div class="card-footnote">
