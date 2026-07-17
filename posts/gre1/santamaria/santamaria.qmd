@@ -104,7 +104,7 @@ categories: [Central Midfielder, Reliable-Starter, Cross-League]
   <div class="verdict-block">
     <div class="verdict-label">Overall Projection</div>
     <div class="verdict-tier">Reliable Starter</div>
-    <div class="verdict-pct">avg pct: 67.5% · P(success) 75% · Cross-League · ESP1 → GRE1</div>
+    <div class="verdict-pct">avg pct: 67.5% · Cross-League · ESP1 → GRE1</div>
   </div>
 
   <div class="card-footnote">
@@ -119,11 +119,5 @@ categories: [Central Midfielder, Reliable-Starter, Cross-League]
 </div>
 ```
 
-## Plain English Verdict
 
-*Copy the plain English verdict from the R console output (printed after "BOTTOM LINE:") and paste it here.*
-
----
-
-*Transfer type: Cross-League · Position: Central Midfielder · Model trained on seasons 22-23, 23-24, 24-25 · Data: Opta-weighted per-90*
 
