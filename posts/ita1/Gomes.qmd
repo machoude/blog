@@ -1,0 +1,114 @@
+---
+title: "Ale Gomes"
+description: "Cross-League · Centre Back · ESP2 → ITA1"
+date: "2026-07-18"
+categories: [Venezia]
+---
+
+```{=html}
+<div class="scout-card-container">
+
+  <h3>📊 Transfer Assessment <code>[CROSS-LEAGUE]</code></h3>
+
+  <table>
+    <thead><tr><th>Attribute</th><th>Detail</th></tr></thead>
+    <tbody>
+      <tr><td><strong>Player</strong></td><td>ALE GOMES</td></tr>
+      <tr><td><strong>Position</strong></td><td>Centre Back</td></tr>
+      <tr><td><strong>Route</strong></td>
+        <td><span style="font-family:'JetBrains Mono',monospace;font-size:0.78rem;">ESP2 <span style="color:#4A9EFF;margin:0 0.4rem;">→</span> ITA1</span></td>
+      </tr>
+      <tr><td><strong>Season</strong></td><td><em>25/26</em></td></tr>
+    </tbody>
+  </table>
+
+  <div style="padding:0.8rem 0 0.4rem;">
+    <div style="font-family:'JetBrains Mono',monospace;font-size:0.62rem;color:#8B8FA8;text-transform:uppercase;letter-spacing:0.08em;padding:0 1.4rem 0.6rem;">
+      Per-Metric Percentile (ITA1)
+    </div>
+    <div class="metric-bar-row">
+      <span class="metric-bar-label">Tackling</span>
+      <div class="metric-bar-track"><div class="metric-bar-fill strength" style="width:73%;"></div></div>
+      <span class="metric-bar-pct strength">72.6%</span>
+    </div>
+    <div class="metric-bar-row">
+      <span class="metric-bar-label">Shooting</span>
+      <div class="metric-bar-track"><div class="metric-bar-fill neutral" style="width:41%;"></div></div>
+      <span class="metric-bar-pct neutral">41.3%</span>
+    </div>
+    <div class="metric-bar-row">
+      <span class="metric-bar-label">Assisting</span>
+      <div class="metric-bar-track"><div class="metric-bar-fill risk" style="width:34%;"></div></div>
+      <span class="metric-bar-pct risk">34.2%</span>
+    </div>
+    <div class="metric-bar-row">
+      <span class="metric-bar-label">Blocking</span>
+      <div class="metric-bar-track"><div class="metric-bar-fill risk" style="width:24%;"></div></div>
+      <span class="metric-bar-pct risk">24.5%</span>
+    </div>
+    <div class="metric-bar-row">
+      <span class="metric-bar-label">Progression</span>
+      <div class="metric-bar-track"><div class="metric-bar-fill risk" style="width: 7%;"></div></div>
+      <span class="metric-bar-pct risk"> 6.8%</span>
+    </div>
+    <div class="metric-bar-row">
+      <span class="metric-bar-label">Creativity</span>
+      <div class="metric-bar-track"><div class="metric-bar-fill risk" style="width: 4%;"></div></div>
+      <span class="metric-bar-pct risk"> 4.2%</span>
+    </div>
+    <div class="metric-bar-row">
+      <span class="metric-bar-label">Heading</span>
+      <div class="metric-bar-track"><div class="metric-bar-fill risk" style="width: 2%;"></div></div>
+      <span class="metric-bar-pct risk"> 1.6%</span>
+    </div>
+    <div class="metric-bar-row">
+      <span class="metric-bar-label">Crossing</span>
+      <div class="metric-bar-track"><div class="metric-bar-fill risk" style="width: 0%;"></div></div>
+      <span class="metric-bar-pct risk"> 0.0%</span>
+    </div>
+    <div class="metric-bar-row">
+      <span class="metric-bar-label">Passing</span>
+      <div class="metric-bar-track"><div class="metric-bar-fill risk" style="width: 0%;"></div></div>
+      <span class="metric-bar-pct risk"> 0.0%</span>
+    </div>
+  </div>
+
+  <div class="profile-strengths">
+    <strong>✦ Strengths ≥ 60th pct</strong>
+    Tackling (73%)
+  </div>
+  <div class="profile-neutral">
+    <strong>◈ Neutral 40–59th pct</strong>
+    Shooting (41%)
+  </div>
+  <div class="profile-risks">
+    <strong>▼ Risks &lt; 40th pct</strong>
+    Assisting (34%) · Blocking (24%) · Progression (7%) · Creativity (4%) · Heading (2%) · Crossing (0%) · Passing (0%)
+  </div>
+
+  <div class="verdict-block">
+    <div class="verdict-label">Overall Projection</div>
+    <div class="verdict-tier">Below Average for Target League</div>
+    <div class="verdict-pct">avg pct: 20.6% · Cross-League · ESP2 → ITA1</div>
+  </div>
+
+  <div class="card-footnote">
+    <span class="card-footnote-marker">*</span>
+    <span class="card-footnote-text">
+      <strong>Comparison group:</strong> Centre Backs in ITA1 only &mdash; not other positions or leagues. &middot;
+      <strong>Data window:</strong> Player scores are from their most recent season only, not a career average. &middot;
+      <strong>Outside scope:</strong> Injury history, tactical system fit, and contract terms are not captured by this model.
+    </span>
+  </div>
+
+</div>
+```
+
+## Plain English Verdict
+
+*Copy the plain English verdict from the R console output (printed after "BOTTOM LINE:") and paste it here.*
+
+---
+
+*Transfer type: Cross-League · Position: Centre Back · Model trained on seasons 22-23, 23-24, 24-25 · Data: Opta-weighted per-90*
+

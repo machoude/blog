@@ -1,7 +1,14 @@
 [
   {
     "listing": "/ita1.html",
-    "items": []
+    "items": [
+      "/posts/ita1/Berardi.html",
+      "/posts/ita1/Rrahmani.html",
+      "/posts/ita1/Correia.html",
+      "/posts/ita1/Gomes.html",
+      "/posts/ita1/Kotchap.html",
+      "/posts/ita1/Basic.html"
+    ]
   },
   {
     "listing": "/gre1.html",
