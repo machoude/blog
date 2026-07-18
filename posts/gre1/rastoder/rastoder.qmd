@@ -2,7 +2,7 @@
 title: "Elmin Rastoder"
 description: "Cross-League · Forward · SWI1 → GRE1"
 date: "2026-07-10"
-categories: [Forward, Reliable-Starter, Cross-League]
+categories: [Panathinaikos FC]
 ---
 
 ```{=html}

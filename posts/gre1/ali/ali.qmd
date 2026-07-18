@@ -2,7 +2,7 @@
 title: "Taha Abdi Ali"
 description: "Cross-League · Winger · SWE1 → GRE1"
 date: "2026-07-18"
-categories: [Winger, Reliable-Starter, Cross-League]
+categories: [PAOK]
 ---
 
 ```{=html}

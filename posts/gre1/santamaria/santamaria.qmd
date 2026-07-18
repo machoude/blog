@@ -2,7 +2,7 @@
 title: "Baptiste Santamaria"
 description: "Cross-League · Central Midfielder · ESP1 → GRE1"
 date: "2026-07-18"
-categories: [Central Midfielder, Reliable-Starter, Cross-League]
+categories: [PAOK]
 ---
 
 ```{=html}

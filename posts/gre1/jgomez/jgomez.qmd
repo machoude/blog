@@ -2,7 +2,7 @@
 title: "Jonathan Gómez"
 description: "Cross-League · Wing Back · ESP2 → GRE1"
 date: "2026-07-10"
-categories: [Wing Back, Reliable-Starter, Cross-League]
+categories: [PAOK]
 ---
 
 ```{=html}

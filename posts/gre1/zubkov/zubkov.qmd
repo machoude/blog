@@ -2,7 +2,7 @@
 title: "Oleksandr Zubkov"
 description: "Cross-League · Winger · TUR1 → GRE1"
 date: "2026-07-07"
-categories: [Winger, Top-5-Caliber-Signee, Cross-League]
+categories: [AEK Athens]
 ---
 
 ```{=html}

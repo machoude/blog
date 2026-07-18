@@ -2,7 +2,7 @@
 title: "Pablo Maffeo"
 description: "Cross-League · Wing Back · ESP1 → GRE1"
 date: "2026-07-08"
-categories: [Wing Back, Reliable-Starter, Cross-League]
+categories: [Olympiacos FC]
 ---
 
 ```{=html}

@@ -2,7 +2,7 @@
 title: "Pantelis Hatzidiakos"
 description: "Cross-League · Centre Back · DEN1 → GRE1"
 date: "2026-07-18"
-categories: [Centre Back, Reliable-Starter, Cross-League]
+categories: [PAOK]
 ---
 
 ```{=html}

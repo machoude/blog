@@ -2,7 +2,7 @@
 title: "Iñaki Peña"
 description: "Cross-League · Goalkeeper · ESP1 → GRE1"
 date: "2026-07-10"
-categories: [Goalkeeper, Top-5-Caliber-Signee, Cross-League]
+categories: [Panathinaikos FC]
 ---
 
 ```{=html}

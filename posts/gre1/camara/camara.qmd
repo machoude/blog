@@ -2,7 +2,7 @@
 title: "Etienne Camara"
 description: "Cross-League · Central Midfielder · BEL1 → GRE1"
 date: "2026-07-10"
-categories: [Central Midfielder, Reliable-Starter, Cross-League]
+categories: [Panathinaikos FC]
 ---
 
 ```{=html}

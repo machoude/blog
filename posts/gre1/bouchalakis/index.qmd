@@ -2,7 +2,7 @@
 title: "Andreas Bouchalakis"
 description: "Within-League · Central Midfielder · GRE1 → GRE1"
 date: "2026-07-05"
-categories: [Central Midfielder, Reliable-Starter, Within-League]
+categories: [OFI Crete]
 ---
 
 ```{=html}

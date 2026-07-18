@@ -2,7 +2,7 @@
 title: "Aritz Elustondo"
 description: "Cross-League · Centre Back · ESP1 → GRE1"
 date: "2026-07-10"
-categories: [Centre Back, Reliable-Starter, Cross-League]
+categories: [PAOK]
 ---
 
 ```{=html}

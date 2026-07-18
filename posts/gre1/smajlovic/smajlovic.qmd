@@ -2,7 +2,7 @@
 title: "Zinedin Smajlović"
 description: "Cross-League · Centre Back · NOR1 → GRE1"
 date: "2026-07-08"
-categories: [Centre Back, Top-5-Caliber-Signee, Cross-League]
+categories: [Olympiacos FC]
 ---
 
 ```{=html}
