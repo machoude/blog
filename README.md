@@ -1,6 +1,6 @@
 # DataScouteR
 
-**Football transfer analytics powered by R — Greek Super League · 25/26**
+**Football transfer analytics powered by R *
 
 > *Data answers how a player ranks statistically. Scouts answer whether they fit your system.*
 

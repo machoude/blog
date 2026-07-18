@@ -172,7 +172,7 @@
     "href": "index.html",
     "title": "DataScouteR",
     "section": "",
-    "text": "Data-Driven Football Intelligence\n  \n\n  \n    Transfer intelligencebuilt on real data.\n  \n\n  \n    DataScouteR combines distribution analysis, non-parametric statistics, and\n    empirical backtesting to evaluate football transfers across 25+ global leagues.\n  \n\n  \n    \n      Browse Transfer Cards\n    \n    \n      About this project\n    \n  \n\n  \n  \n    \n      4\n      Seasons\n    \n    \n      25+\n      Leagues\n    \n    \n      6\n      Positions\n    \n    \n      12\n      Metrics"
+    "text": "Data-Driven Football Intelligence\n  \n\n  \n    Transfer intelligencebuilt on real data.\n  \n\n  \n    DataScouteR combines distribution analysis, non-parametric statistics, and\n    empirical backtesting to evaluate football transfers across 25+ global leagues.\n  \n\n  \n    \n      Browse Transfer Cards\n    \n    \n      About this project"
   },
   {
     "objectID": "index.html#what-youll-find-here",
@@ -186,7 +186,7 @@
     "href": "index.html#projection-tiers",
     "title": "DataScouteR",
     "section": "Projection tiers",
-    "text": "Projection tiers\n\n\n\nTier\nPercentile\nWhat it means\n\n\n\n\nElite / League Star\n≥ 90%\nTop 10% — a genuinely standout signing.\n\n\nTop 5 Caliber\n75 – 89%\nTop quarter — high-quality starter.\n\n\nReliable Starter\n50 – 74%\nAbove median — solid, consistent contributor.\n\n\nRotation / Squad\n25 – 49%\nBelow median — useful depth or developing player.\n\n\nBelow Average\n&lt; 25%\nBottom quarter — transfer carries performance risk.\n\n\n\n\nLeagues currently covered: Greek Super League (GRE1). Additional leagues will be published as transfer windows progress."
+    "text": "Projection tiers\n\n\n\nTier\nPercentile\nWhat it means\n\n\n\n\nElite / League Star\n≥ 90%\nTop 10% — a genuinely standout signing.\n\n\nTop 5 Caliber\n75 – 89%\nTop quarter — high-quality starter.\n\n\nReliable Starter\n50 – 74%\nAbove median — solid, consistent contributor.\n\n\nRotation / Squad\n25 – 49%\nBelow median — useful depth or developing player.\n\n\nBelow Average\n&lt; 25%\nBottom quarter — transfer carries performance risk.\n\n\n\n\nLeagues currently covered: Greek Super League and Serie A. Additional leagues will be published as transfer windows progress."
   },
   {
     "objectID": "index.html#how-to-read-the-cards",
