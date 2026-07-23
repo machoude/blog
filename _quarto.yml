@@ -16,7 +16,9 @@ website:
           - href: gre1.qmd
             text: "Greek Super League"
           - href: ita1.qmd
-            text: "Serie A"    
+            text: "Serie A"
+          - href: eng1.qmd
+            text: "Premier League"  
     right:
       - text: "About"
         href: about.qmd
